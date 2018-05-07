@@ -1,2 +1,2 @@
-# GeeksforGeeks_Python_Couse
+# GeeksforGeeks_Python_Course
 Learning Python language 
