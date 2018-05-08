@@ -5,4 +5,5 @@ Learning Python language
 1.Basic 
 
 2.Variable
+    
     -partial function
