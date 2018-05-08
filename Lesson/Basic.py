@@ -4,3 +4,16 @@
 
 # Basic code 
 
+# flow control
+
+def nw():
+    b= dict()
+
+    b['name']= "kalana"
+    b['age']=10
+
+    return b
+
+
+
+print(nw())
